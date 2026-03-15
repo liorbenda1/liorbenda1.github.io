@@ -1,0 +1,32 @@
+# ===== MATLAB generated files =====
+*.asv
+*.m~
+*.autosave
+*.slxc
+*.slxc~ 
+*.slx.r201*
+*.mdl.r201*
+*.mex*
+*.p
+*.log
+
+# ===== MATLAB / Simulink cache & codegen =====
+slprj/
+sccprj/
+codegen/
+*.slxc
+
+# ===== OS / editor noise =====
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ===== Project outputs =====
+results/
+*.png
+*.csv
+
+# ===== Data handling =====
+data/local/
+
